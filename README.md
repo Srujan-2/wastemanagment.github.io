@@ -18,7 +18,7 @@
 
 <body>
     <div class="container">
-        <img src="image.png" alt="Waste Management and Recycling Automation">
+        <img src="recycling_image.jpg" alt="Waste Management and Recycling Automation">
         <div class="description">
             <h2>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules: Waste Generation Monitoring, which tracks and logs waste production in real-time; Route Optimization, which ensures efficient planning for collection vehicles to minimize fuel usage and operational costs; Waste Classification, where waste is segregated into specific types for recycling or disposal; and Selling Recycled Products, focusing on marketing and selling recycled materials and eco-friendly products to promote a circular economy. This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
         </div>
@@ -53,7 +53,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dl>
 <dt>Course Name:DAA LAB</dt>
 <dd>Data Structure And Algorithmic </dd>
-<dt>Course Code:24ECSP206</dt>
+<dt>Course Code:24ECSP205</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
 <dd>Srujan Kapale</dd>
