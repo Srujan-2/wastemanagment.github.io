@@ -18,26 +18,14 @@
 
 <body>
     <div class="container">
-        <img src="recycling_image.jpg" alt="Waste Management and Recycling Automation">
-        <div class="description">
-            <h2>Waste Management and Recycling Automation</h2>
-            <p><!DOCTYPE html>
-<html lang="en">
-<head>
-
-<body>
-    <div class="container">
         <img src="image.png" alt="Waste Management and Recycling Automation">
         <div class="description">
             <h2>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules: Waste Generation Monitoring, which tracks and logs waste production in real-time; Route Optimization, which ensures efficient planning for collection vehicles to minimize fuel usage and operational costs; Waste Classification, where waste is segregated into specific types for recycling or disposal; and Selling Recycled Products, focusing on marketing and selling recycled materials and eco-friendly products to promote a circular economy. This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
         </div>
     </div>
 </body>
-</html></p>
-        </div>
-    </div>
-</body>
 </html>
+   
 
 # wastemanagment.github.io
 ## Portfolio
