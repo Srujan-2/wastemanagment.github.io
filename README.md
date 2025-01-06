@@ -1,3 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<body>
+    <div class="container">
+        <img src="" alt="Waste Management and Recycling Automation">
+        <div class="description">
+            <h2>E-commerce Inventory Management System</h2>
+            <p><!DOCTYPE html>
+<html lang="en">
+<head>
+
+<body>
+    <div class="container">
+        <img src="image.png" alt="Waste Management and Recycling Automation">
+        <div class="description">
+            <h2>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules: Waste Generation Monitoring, which tracks and logs waste production in real-time; Route Optimization, which ensures efficient planning for collection vehicles to minimize fuel usage and operational costs; Waste Classification, where waste is segregated into specific types for recycling or disposal; and Selling Recycled Products, focusing on marketing and selling recycled materials and eco-friendly products to promote a circular economy. This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
+        </div>
+    </div>
+</body>
+</html></p>
+        </div>
+    </div>
+</body>
+</html>
+
 # wastemanagment.github.io
 ## Portfolio
 
@@ -42,3 +69,19 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+</head>
+<body>
+    <div class="container">
+        <a href="about.md" style="display: block; text-align: center; font-size: 1.5em; color: #3498db;">[About Me]</a>
+        <h1>About Me</h1>
+        <div class="about-text">
+            <p>Hey, this is me!</p>
+            <p>Major of <span class="highlight">Computer Science</span> at KLE TECH!</p>
+        </div>
+    </div>
+</body>
+</html>
