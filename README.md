@@ -1,5 +1,7 @@
      
-# wastemanagement.github.io   ## Portfolio
+# wastemanagement.github.io  
+
+## Portfolio
 
 ### Hello, Srujan Kapale 👋
 
