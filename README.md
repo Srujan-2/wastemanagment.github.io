@@ -29,7 +29,7 @@
 
    
 
-# wastemanagment.github.io
+## wastemanagment.github.io
 ## Portfolio
 
 ### Hello, I'm [Srujan Kapale]👋
