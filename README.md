@@ -3,81 +3,123 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   
+    <title>Waste Management Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .container img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #3498db;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        dl {
+            text-align: left;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            max-width: 600px;
+        }
+        dl dt {
+            font-weight: bold;
+        }
+        dl dd {
+            margin: 0 0 10px 20px;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to My Project</h1>
-</body>
-</html>
-
-
-
-<html lang="en">
-<head>
-
-<body>
     <div class="container">
-        <img src="wastemag.png" alt="Waste Management And Recycling Automation">
+        <img src="wastemag.png" alt="Waste Management and Recycling Automation">
         <div class="description">
-            <h2>Waste Management And Recycling Automation</h2>
-            <p>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules: Waste Generation Monitoring, which tracks and logs waste production in real-time; Route Optimization, which ensures efficient planning for collection vehicles to minimize fuel usage and operational costs; Waste Classification, where waste is segregated into specific types for recycling or disposal; and Selling Recycled Products, focusing on marketing and selling recycled materials and eco-friendly products to promote a circular economy. This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
+            <h2>The Waste Management and Recycling Automation Project</h2>
+            <p>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules:</p>
+            <ul>
+                <li><strong>Waste Generation Monitoring:</strong> Tracks and logs waste production in real-time.</li>
+                <li><strong>Route Optimization:</strong> Ensures efficient planning for collection vehicles to minimize fuel usage and operational costs.</li>
+                <li><strong>Waste Classification:</strong> Segregates waste into specific types for recycling or disposal.</li>
+                <li><strong>Selling Recycled Products:</strong> Focuses on marketing and selling recycled materials and eco-friendly products to promote a circular economy.</li>
+            </ul>
+            <p>This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
         </div>
     </div>
-</body>
 
+ <h2># wastemanagment.github.io</h2>
+ <h3>Portfolio</h3>
+    <p>Hello, I'm <strong>[Srujan Kapale]</strong> 👋</p>
+    <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
 
+   <h3>🛠️ Projects</h3>
+    <p><strong>Project 1:</strong> A Waste Management and Recycling Automation System includes 4 modules:</p>
+    <ul>
+        <li><strong>Waste Generation Monitoring:</strong> Monitors waste generation.</li>
+        <li><strong>Route Optimization:</strong> Plans and executes the most efficient routes for waste collection vehicles.</li>
+        <li><strong>Waste Classification:</strong> Segregates all the waste and sends it to the appropriate industry.</li>
+        <li><strong>Selling Recycled Products:</strong> Sells recycled products.</li>
+    </ul>
+    <p>The system streamlines waste handling through efficient monitoring, classification, and collection routes. It also promotes sustainability by recycling materials and selling eco-friendly products.</p>
 
-## wastemanagement.github.io
-## Portfolio
+  <h3>🚀 Skills</h3>
+    <ul>
+        <li>C++, Python, JavaScript, C, HTML</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Web Development (DBMS)</li>
+    </ul>
 
-### Hello, I'm [Srujan Kapale] 👋
+   <h3>🌐 Find Me Online</h3>
+    <ul>
+        <li><a href="https://github.com/Srujan-2">GitHub</a></li>
+    </ul>
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+  <h3>Portfolio Topic:</h3>
+    <p><strong>Waste Management and Recycling Automation</strong></p>
 
-## 🛠️ Projects
-- **Project 1**: A Waste Management and Recycling Automation System include 4 modules:**Waste generation monitoring**(monitors waste generation), **Route optimization**(planning and executing the  most efficient routes for waste collection vehicle), **Waste Classification**(segregate all the waste and send it to particular industry), and **Selling Recycled Products**(Sell the recycled products). The Waste Management and Recycling Automation system streamlines waste handling through efficient monitoring, classification, and collection routes. It also promotes sustainability by recycling materials and selling eco-friendly products..
+   <dl>
+        <dt>Course Name:</dt>
+        <dd>DAA LAB</dd>
+        <dt>Course Code:</dt>
+        <dd>24ECSP205</dd>
+        <dt>Name:</dt>
+        <dd>Srujan Kapale</dd>
+        <dt>SRN:</dt>
+        <dd>02fe23bcs182</dd>
+        <dt>Course Instructor:</dt>
+        <dd>Prof. Vaishali Y. Parab and Ms. Manasi N</dd>
+        <dt>University:</dt>
+        <dd>KLE Technological University</dd>
+        <dt>Waste Management and Recycling Automation/COMPUTER SCIENCE:</dt>
+        <dd>BE</dd>
+    </dl>
 
+  <blockquote>
+        <p>“The only way to do great work is to love what you do.” – Steve Jobs</p>
+    </blockquote>
 
-## 🚀 Skills
-- C++, Python, JavaScript,C,HTML
-- Data Structures and Algorithms
-- Web Development (DBMS)
-
-## 🌐 Find Me Online
-- [GitHub](https://github.com/Srujan-2)
-
-## Portfolio Topic: Waste Management And Recycling Automation
-
-<dl>
-<dt>Course Name:DAA LAB</dt>
-<dd>Data Structure And Algorithmic </dd>
-<dt>Course Code:24ECSP205</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Srujan Kapale</dd>
-<dt>SRN</dt>
-<dd>Your SRN:02fe23bcs182</dd>
-<dt>Course Instructor:Prof. Vaishali Y. Parab and Ms.Manasi N</dt>
-<dd>Instructor Name Placeholder:</dd>
-<dt>University</dt>
-<dd>Your University Name:KLE TECHNOLOGICAL UNIVERSITY</dd>
-<dt>Waste Management And Recycling Automation/COMPUTER SCIENCE</dt>
-<dd>BE </dd>
-</dl>
-
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
-><br>
-</html>
-
-<html lang="en">
-<head>
-   
-</head>
-<body>
-    <div class="container">
-        <a href="about.md" style="display: block; text-align: center; font-size: 1.5em; color: #3498db;">[About Me]</a>
+ <div class="container">
+        <a href="about.md">[About Me]</a>
         <h1>About Me</h1>
         <div class="about-text">
             <p>Hey, this is me!</p>
