@@ -12,7 +12,7 @@
 </html>
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
@@ -70,7 +70,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 > “The only way to do great work is to love what you do.” – Steve Jobs
 ><br>
 </html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
    
