@@ -1,6 +1,9 @@
+# Waste Management And Recycling Automation
 # Welcome to My Project
 
-![Waste Management and Recycling Automation](wastemag.png)
+![Waste Management and Recycling Automation](WASTEIMAGE.jpg)
+
+<hr>
 
 ## The Waste Management and Recycling Automation Project
 
@@ -15,14 +18,20 @@ This system aims to enhance sustainability, reduce environmental impact, and opt
      
 # wastemanagement.github.io  
 
+<hr>
+
 ## Portfolio
 
 ### Hello, Srujan Kapale 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
+<hr>
+
 ## 🛠 Projects
 - Project : A Waste Management and Recycling Automation System include 4 modules:**Waste generation monitoring**(monitors waste generation), **Route optimization**(planning and executing the  most efficient routes for waste collection vehicle), **Waste Classification**(segregate all the waste and send it to particular industry), and **Selling Recycled Products**(Sell the recycled products). The Waste Management and Recycling Automation system streamlines waste handling through efficient monitoring, classification, and collection routes. It also promotes sustainability by recycling materials and selling eco-friendly products.
+
+<hr>
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -32,6 +41,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Srujan-2)
 
+
+<hr>
 
 ## Portfolio Topic
 
