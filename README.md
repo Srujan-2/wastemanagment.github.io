@@ -56,7 +56,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>SRN</dt>
 <dd>02FE23BCS182</dd>
 <dt>Course Instructor</dt>
-<dd>Prof.Vaishali Parab</dd>
+<dd>Prof.Vaishali Parab and Ms. Manasi N </dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Waste Management and Recycling Automation/COMPUTER SCIENCE</dt>
