@@ -25,10 +25,10 @@
         </div>
     </div>
 </body>
-</html>
 
 
-# wastemanagement.github.io
+
+## wastemanagement.github.io
 ## Portfolio
 
 ### Hello, I'm [Srujan Kapale] 👋
@@ -69,7 +69,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 ><br>
-
+</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
