@@ -1,5 +1,4 @@
 # Welcome to My Project
-#Waste Management And Recycling Automation
 
 ![Waste Management and Recycling Automation](wastemag.png)
 
