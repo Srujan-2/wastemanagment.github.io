@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   
-</head>
-<body>
-    <h1>Welcome to My Project</h1>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<body>
-    <div class="container">
-        <img src="wastemag.png" alt="Waste Management and Recycling Automation">
-        <div class="description">
-            <h2>The Waste Management and Recycling Automation project is designed to address the growing challenges of waste disposal and recycling. It features four key modules: Waste Generation Monitoring, which tracks and logs waste production in real-time; Route Optimization, which ensures efficient planning for collection vehicles to minimize fuel usage and operational costs; Waste Classification, where waste is segregated into specific types for recycling or disposal; and Selling Recycled Products, focusing on marketing and selling recycled materials and eco-friendly products to promote a circular economy. This system aims to enhance sustainability, reduce environmental impact, and optimize waste management processes.</p>
-        </div>
-    </div>
-</body>
-</html>
-                
+     
 # wastemanagement.github.io   ## Portfolio
 
 ### Hello, Srujan Kapale 👋
