@@ -44,7 +44,7 @@ This project focuses on automating waste management processes, including:
 
 You can view the complete code for the project here:
 
-[View My Code](./MYCODE.MD)
+[View My Code](MYCODE.MD)
 
 <hr>
 
