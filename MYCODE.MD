@@ -1,3 +1,7 @@
+---
+layout: none
+---
+{% raw %}
 
 #include <iostream>
 #include <limits>
@@ -6067,6 +6071,7 @@ int main()
 
     return 0;
 }
+{% endraw %}
 
 
 
