@@ -31,6 +31,21 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🛠 Projects
 - Project : A Waste Management and Recycling Automation System include 4 modules:**Waste generation monitoring**(monitors waste generation), **Route optimization**(planning and executing the  most efficient routes for waste collection vehicle), **Waste Classification**(segregate all the waste and send it to particular industry), and **Selling Recycled Products**(Sell the recycled products). The Waste Management and Recycling Automation system streamlines waste handling through efficient monitoring, classification, and collection routes. It also promotes sustainability by recycling materials and selling eco-friendly products.
 
+# Waste Management and Recycling Automation
+
+This project focuses on automating waste management processes, including:
+
+- **Waste Generation Monitoring**
+- **Route Optimization**
+- **Waste Classification**
+- **Selling Recycled Products**
+
+## View the Code
+
+You can view the complete code for the project here:
+
+[View My Code](./MYCODE.MD)
+
 <hr>
 
 ## 🚀 Skills
